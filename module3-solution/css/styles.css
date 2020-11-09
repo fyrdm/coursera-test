@@ -1,0 +1,86 @@
+* {
+	box-sizing: border-box;
+}
+
+#header-nav {
+	background-color: #6699ff;
+	border-radius: 0px;
+	border: 0;
+}
+
+.navbar-brand h1 {
+	color: black;
+	font-size: 2.0em;
+	font-weight: bold;
+	margin-top: 0;
+  	margin-bottom: 0;
+  	margin-left: 0;
+  	line-height: .75;
+}
+
+.navbar-header .navbar-toggle {
+	background-color: #ffffaa;
+	margin-bottom: 0px;
+}
+
+.navbar-brand h1:hover, .navbar-brand h1:focus {
+  color: #ff2255;
+}
+
+#nav-list {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border: solid black 1px;
+	background-color: #ffffff;
+}
+
+#nav-list a {
+	color: #110011;
+	text-align: center;
+	font-size: 2.5em;
+	border: solid black 1px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#nav-list a:hover {
+	background-color: #6699ff;
+}
+
+#MenuHeader {
+	font-family: "Comic Sans MS";
+	font-weight: bold;
+	margin-top: 25px;
+	margin-bottom: 25px;
+
+}
+
+#ContentContainer {
+	margin: 0px 1px 0px 1px;
+	width: 100%;
+}
+
+.row {
+	margin-left: 0.1%;
+	margin-right: 0.1%;
+}
+
+#Recipe {
+	background-color: #33ff88;
+	margin-bottom: 65px;
+}
+
+#Recipe span {
+	font-weight: bold;
+}
+
+#RecipeHeader {
+	
+	font-size: 1.5em;
+	font-weight: bolder;
+}
+
+
+.dropdown {
+	text-align: center;
+}
